@@ -20,7 +20,7 @@ $ pkg install python
 
 $ pkg install python2
 
-$ git clone https://github.com/Ariyanahmedmamun/Email-Bomber-2.0/
+$ git clone https://github.com/Mamun-404/Email-Bomber-2.0
 
 $ cd Email-Bomber-2.0
 
